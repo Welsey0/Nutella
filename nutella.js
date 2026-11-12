@@ -6,7 +6,7 @@
  */
 (function () {
   // grab the video from github
-  const VIDEO_URL = 'https://github.com/Welsey0/Nutella/raw/refs/heads/master/nutella.webm';
+  const VIDEO_URL = 'https://githubusercontent.com/Welsey0/Nutella/master/nutella.webm';
 
   // only allows one at a time 
   if (document.getElementById('nutella-flyby-overlay')) return;
@@ -16,7 +16,6 @@
   video.src = VIDEO_URL;
   video.muted = true;
   video.playsInline = true;
-  video.crossOrigin = 'anonymous';
 
   Object.assign(video.style, {
     position: 'fixed',
