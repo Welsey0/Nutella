@@ -6,7 +6,7 @@
  */
 (function () {
   // grab the video from github
-  const VIDEO_URL = 'https://githubusercontent.com/Welsey0/Nutella/master/nutella.webm';
+  const VIDEO_URL = 'https://file.xobyte.org/7872cbae-f63b-467d-9a4c-499918caefbd';
 
   // only allows one at a time 
   if (document.getElementById('nutella-flyby-overlay')) return;
