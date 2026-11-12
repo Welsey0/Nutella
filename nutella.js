@@ -5,8 +5,8 @@
  * alpha mask. The final edit and video was made by combining the original with the mask in ffmpeg.
  */
 (function () {
-  // don't have this set up yet
-  const VIDEO_URL = '';
+  // grab the video from github
+  const VIDEO_URL = 'https://github.com/Welsey0/Nutella/raw/refs/heads/master/nutella.webm';
 
   // only allows one at a time 
   if (document.getElementById('nutella-flyby-overlay')) return;
