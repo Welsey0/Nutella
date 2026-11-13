@@ -4,5 +4,4 @@ Make the famous [Artemis II Nutella jar](https://www.youtube.com/watch?v=J6FwPOb
 Copy the code from nutella.js.bookmarklet into a bookmark in your bookmark bar to gain the ability to summon the Nutella whenever neccesarry!
 
 ### Demo
-<video src="https://githubusercontent.com/Welsey0/Nutella/nutella-demo.mp4" controls="controls" style="max-width: 100%;">
-</video>
+![The Google home page with a semitransparent Nutella jar floating by, in this picture it is just over the L in the Google logo.](https://githubusercontent.com/Welsey0/Nutella/nutella-demo.png)
