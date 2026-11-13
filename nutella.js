@@ -5,7 +5,7 @@
  * alpha mask. The final edit and video was made by combining the original with the mask in ffmpeg.
  */
 (function () {
-  // grab the video from github
+  // grab the video from xobyte
   const VIDEO_URL = 'https://file.xobyte.org/7872cbae-f63b-467d-9a4c-499918caefbd';
 
   // only allows one at a time 
